@@ -117,3 +117,5 @@ echo "   android/app/build/outputs/apk/debug/app-debug.apk"
 echo ""
 echo "For detailed instructions, see MOBILE_BUILD_GUIDE.md"
 echo ""
+
+exit 0
