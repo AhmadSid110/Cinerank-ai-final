@@ -14,6 +14,7 @@ export const validateKey = async (apiKey: string): Promise<boolean> => {
   try {
     // /configuration is a lightweight endpoint that supports api_key param
     const res = await fetch(getUrl('/configuration', apiKey));
+    console.log('validateKey status', res.status, await res.text());
     return res.ok;
   } catch (e) {
     return false;
