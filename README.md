@@ -8,6 +8,12 @@ This is a React-based web application that helps you discover, rank, and track m
 
 View your app in AI Studio: https://ai.studio/apps/drive/1MrQA8nZc-_u6rLTX2uW6Tx5Rkde-a2SK
 
+## 📱 Want to Build an Android APK?
+
+**👉 [Start Here: Complete APK Build Guide](START_HERE.md)**
+
+This repository is fully configured to convert the web app into an Android APK. All documentation, scripts, and configuration files are included!
+
 ## Run Locally
 
 **Prerequisites:**  Node.js (v16 or higher)
